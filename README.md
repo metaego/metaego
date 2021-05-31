@@ -1,3 +1,6 @@
+# Hi! Welcom to my GitHub!
+# Let me introduce myself!
+
 # Data Analysis/Data Engineer/Data scientist
 
 
@@ -10,6 +13,7 @@
 - Psychology
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metaego)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
