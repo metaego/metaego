@@ -1,7 +1,9 @@
-# Hi! Welcome to my GitHub! Let me introduce myself!
+# Hi! Welcome to my GitHub! Let me introduce myself! :)
 
-# Data Analysis/Data Engineer/Data scientist
-
+# Field
+- Data Analysis
+- Data Engineer
+- Data scientist
 
 # Interest
 - Data Analytics
