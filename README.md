@@ -1,18 +1,22 @@
+<html>
+<header>
+  <title> # ✨ Hi! Welcome to my GitHub! Let me introduce myself! :) ✨ <title>
 <style>
   details {padding : 1rem; white-space: pre-wrap;}
-
 </style>
+</header>
 
-<details>
-
-    # ✨ Hi! Welcome to my GitHub! Let me introduce myself! :) ✨
-
-    <summary># 🌱 Field </summary>
+<body>  
+    
+    <h1> # 🌱 Field </h1>
+    <details>
     - Data Analysis
     - Data Engineer
     - Data scientist
-
-    # 😄 Interest
+    </details>
+      
+    <h1> # 😄 Interest</h1>
+    <details>
     - Data Analytics
     - Data Science
     - Data Engineering
@@ -21,9 +25,11 @@
     - Psychology
     - Hadoop, ETL
     - Cloud
+    </details>
 
-    # 🤔 Current learn area
-    ## language
+   <h1> # 🤔 Current learn area</h1>
+    <h2> ## language</h2>
+  <details>
     - English
     - Python
     - SQL(Oracle, MySQL)
@@ -31,31 +37,40 @@
     - HTML/CSS
     - JS
     - R
-
-    ## DataBase
+   </details>
+  
+  
+   <h2> ## DataBase</h2>
+  <details>
     - SQLite
     - MySQL
     - PostgreSQL
     - Elastic Search
-
-    ## Cloud
+   </details>
+    
+    <h2> ## Cloud</h2>
+  <details>
     - AWS
-
-    ## Tool
+  </details>
+  
+   <h2> ## Tool </h2>
+   <details>
     - Visual studio code
     - git/github
     - Jupyter notebook
     - notepad++
+    </details>
 
+  
     # My Github State
-
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metaego)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 </details>
-
+    
+</body>
 
 
 <!--
