@@ -1,17 +1,44 @@
-# Hi! Welcome to my GitHub! Let me introduce myself! :)
+#✨ Hi! Welcome to my GitHub! Let me introduce myself! :) ✨
 
-# Field
+# 🌱 Field
 - Data Analysis
 - Data Engineer
 - Data scientist
 
-# Interest
+# 😄 Interest
 - Data Analytics
 - Data Science
 - Data Engineering
 - Data Visualization
 - AI/ML
 - Psychology
+- Hadoop, ETL
+- Cloud
+
+# 🤔 Current learn area
+## language
+- English
+- Python
+- SQL(Oracle, MySQL)
+- Java
+- HTML/CSS
+- JS
+- R
+
+## DataBase
+- SQLite
+- MySQL
+- PostgreSQL
+- Elastic Search
+
+## Cloud
+- AWS
+
+## Tool
+- Visual studio code
+- git/github
+- Jupyter notebook
+- notepad++
 
 # My Github State
 
