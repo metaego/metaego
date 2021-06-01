@@ -1,53 +1,60 @@
-# ✨ Hi! Welcome to my GitHub! Let me introduce myself! :) ✨
+<style>
+  details {padding : 1rem; white-space: pre-wrap;}
 
-# 🌱 Field
-- Data Analysis
-- Data Engineer
-- Data scientist
+</style>
 
-# 😄 Interest
-- Data Analytics
-- Data Science
-- Data Engineering
-- Data Visualization
-- AI/ML
-- Psychology
-- Hadoop, ETL
-- Cloud
+<details>
 
-# 🤔 Current learn area
-## language
-- English
-- Python
-- SQL(Oracle, MySQL)
-- Java
-- HTML/CSS
-- JS
-- R
+    # ✨ Hi! Welcome to my GitHub! Let me introduce myself! :) ✨
 
-## DataBase
-- SQLite
-- MySQL
-- PostgreSQL
-- Elastic Search
+    <summary># 🌱 Field </summary>
+    - Data Analysis
+    - Data Engineer
+    - Data scientist
 
-## Cloud
-- AWS
+    # 😄 Interest
+    - Data Analytics
+    - Data Science
+    - Data Engineering
+    - Data Visualization
+    - AI/ML
+    - Psychology
+    - Hadoop, ETL
+    - Cloud
 
-## Tool
-- Visual studio code
-- git/github
-- Jupyter notebook
-- notepad++
+    # 🤔 Current learn area
+    ## language
+    - English
+    - Python
+    - SQL(Oracle, MySQL)
+    - Java
+    - HTML/CSS
+    - JS
+    - R
 
-# My Github State
+    ## DataBase
+    - SQLite
+    - MySQL
+    - PostgreSQL
+    - Elastic Search
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metaego)](https://github.com/anuraghazra/github-readme-stats)
+    ## Cloud
+    - AWS
+
+    ## Tool
+    - Visual studio code
+    - git/github
+    - Jupyter notebook
+    - notepad++
+
+    # My Github State
+
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metaego)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-
+</details>
 
 
 
