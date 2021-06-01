@@ -3,7 +3,8 @@
    
 <body> 
   
-  # ✨ Hi! Welcome to my GitHub! Let me introduce myself! :) ✨ 
+  # ✨ Hi! Welcome to my GitHub! ✨
+Let me introduce myself! follow follow me! ;)  
   <br>
   <h1> 🌱 Field </h1>
     <details>
