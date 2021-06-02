@@ -23,7 +23,7 @@ Let me introduce myself! follow follow me! ;)
         - Data Visualization<br>
         - AI/ML<br>
         - Psychology<br>
-        - Hadoop, ETL<br>
+        - Hadoop, ETL, Apache Spark<br>
         - Cloud<br>
       </details>
     <br>
@@ -55,7 +55,15 @@ Let me introduce myself! follow follow me! ;)
     - AWS<p>
   </details>
     <br>
-   <h2> Tool </h2>
+  <h2>Project Tool </h2>
+   <details>
+     <summary>Click me :)</summary>
+    - git/github<br>
+    - jira<br>
+    - freedcamp<br>
+    - slack<br>
+    - xwiki<br> 
+   <h2>IDEL Tool </h2>
    <details>
      <summary>Click me :)</summary>
     - Visual studio code<br>
