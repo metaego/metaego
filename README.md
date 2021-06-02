@@ -14,7 +14,8 @@ Let me introduce myself! follow follow me! ;)
       - Data scientist<br>
     </details>
   <br>
-   <h1> 😄 Interest</h1>
+  
+ <h1> 😄 Interest</h1>
       <details>
         <summary>Click me :)</summary>
         - Data Analytics<br>
@@ -27,35 +28,40 @@ Let me introduce myself! follow follow me! ;)
         - Cloud<br>
       </details>
     <br>
-   <h1> 🤔 Current learn area</h1>
+   
+ <h1> 🤔 Current learn area</h1>
     <h2> language</h2>
   <details>
     <summary>Click me :) </summary>
     - English<br>
     - Python<br>
-    - SQL(Oracle, MySQL)<br>
+    - SQL<br>
     - Java<br>
     - HTML/CSS<br>
     - JS<br>
     - R<br>
    </details>
     <br>
-   <h2> DataBase</h2>
+ 
+ <h2> DataBase</h2>
   <details>
     <summary>Click me :)</summary>
-    - SQLite<br>
+    - Oracle<br>
     - MySQL<br>
     - PostgreSQL<br>
     - Elastic Search<br>
+    - MongoDB<br>
    </details>
     <br>
-    <h2> Cloud</h2>
+ 
+ <h2> Cloud</h2>
   <details>
     <summary>Click me :)</summary>
     - AWS<p>
   </details>
     <br>
-  <h2>Project Tool </h2>
+ 
+ <h2>Project Tool </h2>
    <details>
      <summary>Click me :)</summary>
     - git/github<br>
@@ -63,13 +69,16 @@ Let me introduce myself! follow follow me! ;)
     - freedcamp<br>
     - slack<br>
     - xwiki<br> 
-   <h2>IDEL Tool </h2>
+    </details>
+    <br>
+ 
+ <h2>IDEL Tool </h2>
    <details>
      <summary>Click me :)</summary>
     - Visual studio code<br>
-    - git/github<br>
     - Jupyter notebook<br>
     - notepad++<br>
+    - R studio<br>
     </details>
 
 
