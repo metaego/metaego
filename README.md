@@ -83,10 +83,12 @@ Let me introduce myself! follow follow me! ;)
     - notepad++<br>
     - R studio<br>
     </details>
+<br>
+<br>
 
-
-  # My Github State
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metaego)](https://github.com/anuraghazra/github-readme-stats)
+ 
+# My Github State
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=metaego)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align=center>
