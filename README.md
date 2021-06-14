@@ -4,7 +4,9 @@
 <body> 
   
   # ✨ Hi! Welcome to my GitHub! ✨
-Let me introduce myself! follow follow me! ;)  
+Let me introduce myself! follow follow me! ;)  <br><br>
+" 타인의 성과를 보면 질투를, 과정을 보면 용기를 얻는다."<br>
+ 저는 제 자신에게 그리고 다른 이들에게 용기를 주는 사람이고 싶습니다. <br>
   <br>
   <h1> 🌱 Field </h1>
     <details>
