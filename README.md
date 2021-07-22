@@ -55,6 +55,7 @@ Let me introduce myself! follow follow me! ;)  <br><br>
     - PostgreSQL<br>
     - Elastic Search<br>
     - MongoDB<br>
+    - (DB tool) DBeaver<br>
    </details>
     <br>
  
