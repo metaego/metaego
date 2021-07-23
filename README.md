@@ -36,11 +36,15 @@ Let me introduce myself! follow follow me! ;)  <br><br>
   <details>
     <summary>Click me :) </summary>
     - English<br>
-    - Python<br>
+    - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
+      ( <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor=white"/></a> )<br>
     - SQL<br>
     - Java<br>
     - HTML/CSS<br>
-    - JS<br>
+    -  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
     - R<br>
     - pyspark<br>
     - Scalar<br>
@@ -50,12 +54,15 @@ Let me introduce myself! follow follow me! ;)  <br><br>
  <h2> DataBase</h2>
   <details>
     <summary>Click me :)</summary>
-    - Oracle<br>
-    - MySQL<br>
     - PostgreSQL<br>
-    - Elastic Search<br>
     - MongoDB<br>
     - (DB tool) DBeaver<br>
+    - <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a><br>
+    - <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
+    - <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a> (
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a> ) <br>
    </details>
     <br>
  
@@ -78,6 +85,15 @@ Let me introduce myself! follow follow me! ;)  <br><br>
     </details>
     <br>
  
+ <h2>Visualize Tool </h2>
+   <details>
+     <summary>Click me :)</summary>
+    - <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
+    </details>
+    <br>
+  
+
+  
  <h2>IDEL Tool </h2>
    <details>
      <summary>Click me :)</summary>
