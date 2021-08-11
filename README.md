@@ -4,7 +4,7 @@
 <body> 
   
   # ✨ Hi! Welcome to my GitHub! ✨
-[Here is my profile :)](https://comet-pansy-2d6.notion.site/Kim-suyeon-Profile-Dashboard-cd5dbda984b5446ba0543770ca6c894b)  <br><br>
+[Here it is my profile :)](https://comet-pansy-2d6.notion.site/Kim-suyeon-Profile-Dashboard-cd5dbda984b5446ba0543770ca6c894b)  <br><br>
 " 타인의 성과를 보면 질투를, 과정을 보면 용기를 얻는다."<br>
  저는 제 자신에게 그리고 다른 이들에게 용기를 주는 사람이고 싶습니다. <br>
   <br>
