@@ -50,6 +50,14 @@
     - Scalar<br>
    </details>
     <br>
+    
+ <h2> Web Dev</h2>
+  <details>
+    <summary>Click me :)</summary>
+    - Flask<br>
+    - Django<br>
+   </details>
+    <br>
  
  <h2> DataBase</h2>
   <details>
