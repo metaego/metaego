@@ -1,7 +1,7 @@
 <html>
  
    
-<body> 
+<body>
   
   # ✨ Hi! Welcome to my GitHub! ✨
 [Here's my profile :)](https://comet-pansy-2d6.notion.site/Kim-suyeon-Profile-Dashboard-cd5dbda984b5446ba0543770ca6c894b)  <br><br>
@@ -179,7 +179,7 @@
 
 
 
-<!--
+<!--test
 **metaego/metaego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
