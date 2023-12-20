@@ -2,7 +2,7 @@
 
 
 ---
-![It is my GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=metaego&show_icons=true&theme=radical)
 
 <!-- ### Hi there 👋 -->
 
