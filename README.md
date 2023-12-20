@@ -17,12 +17,10 @@
   - Data
   - etc . I'm still learning.
 <br>
-<br>
 
 ## 🔭 I’m currently interested in ...
   - Data Engineering, LLM, MLOps
   - Computer Science   
-<br>
 <br>
 
 ## 💬 To tell you more about me ...
@@ -33,7 +31,6 @@
   - So I do Sapjil again today. 
   
 </body>
-<br>
 <br>
 
 ---
