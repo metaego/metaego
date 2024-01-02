@@ -11,10 +11,10 @@
 <body>
 
 ## 🌱 I’m currently learning ...
-  - Language &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp; <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  - Web
+  - Language &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+  - Web &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   - AI/ML
-  - Data
+  - Data  &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   - etc . I'm still learning.
 <br>
 
