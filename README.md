@@ -14,7 +14,7 @@
   - Language <br>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   - Web  <br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   - Data  <br>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
  - AI/ML
@@ -40,7 +40,10 @@
 ---
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=metaego&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaego&layout=donut&theme=radical)](https://github.com/metaego/github-readme-stats)
-
+<!-- 뱃지 생성
+- 사이트: https://simpleicons.org/
+- form: <img src="https://img.shields.io/badge/{뱃지에 쓸 스택명}-{박스 색깔}?style=flat-square&logo={로고명}&logoColor=white"/>
+-->
 <!-- ### Hi there 👋 -->
 <!--
 **hphk-john/hphk-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
