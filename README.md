@@ -17,9 +17,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   - Data  <br>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
- - AI/ML
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apache-spark-E25A1c?style=flat-square&logo=Apache-spark&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
+ - AI/ML <br>
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apache-spark-E25A1c?style=flat-square&logo=Apache-spark&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
   - etc . I'm still learning.
 <br>
 
