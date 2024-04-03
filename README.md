@@ -18,7 +18,8 @@
   - Data  <br>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
  - AI/ML
-  
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apache-spark-E25A1c?style=flat-square&logo=Apache-spark&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
   - etc . I'm still learning.
 <br>
 
